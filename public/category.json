@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "cyclet"
+    },
+    {
+      "id": 2,
+      "name": "cyclet2"
+    },
+    {
+      "id": 3,
+      "name": "cyclet3"
+    },
+    {
+      "id": 4,
+      "name": "cyclet4"
+    },
+    {
+      "id": 5,
+      "name": "cyclet5"
+    },
+  ]
+}

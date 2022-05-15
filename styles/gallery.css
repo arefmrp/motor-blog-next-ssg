@@ -1,0 +1,45 @@
+.gallery-section-title{
+    padding: 20px 0;
+    color: #1d3557;
+    font-family: iransans-bold;
+    font-weight: bold;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+.gallery-section-item{
+    width: 100%;
+
+}
+.gallery-section-item img{
+    width: 100%;
+    height: 180px;
+    cursor: pointer;
+}
+.modal-image{
+    width: 100%;
+    height: 300px;
+}
+.modal-footer{
+    direction: rtl;
+}
+.modal-list-desc{
+    list-style: none;
+    padding: 3px 5px;
+    margin: 0;
+    width: 100%;
+}
+.modal-list-desc li{
+    font-size: 16px;
+    color: #1d3557;
+    font-family: iransans-light;
+}
+.modal-list-desc li i{
+    font-size: 18px;
+    color: #1d3557;
+    font-family: iransans-ultralight;
+    padding-left: 10px;
+}

@@ -1,0 +1,36 @@
+.nav-cs{
+    background-color: #1d3557 !important;
+    direction: rtl;
+    padding: 10px 15px;
+}
+
+.nav-link{
+    padding: 5px 12px !important;
+    text-decoration: none !important;
+     color: #f1faee;
+     font-size: 21px;
+     font-family: iransans-light;
+    font-weight: bold;
+     transition: 300ms ease all;
+}
+ .nav-link:hover{
+     transition: 300ms ease all;
+     color: #a8dadc;
+ }
+ .navbar-brand{
+    padding: 5px 10px !important;
+    text-decoration: none !important;
+     color: #f1faee;
+     font-size: 23px;
+     font-weight: bolder;
+     font-family: iransans-light;
+     transition: 300ms ease all;
+}
+ .navbar-brand:hover{
+     transition: 300ms ease all;
+     color: #ffffff;
+ }
+ .navbar-toggler i {
+     color: #f1faee;
+ }
+

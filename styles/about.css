@@ -1,0 +1,51 @@
+.about-component{
+    padding: 60px 0;
+}
+.slider-section-about{
+    width: 100%;
+    height: 300px;
+}
+.carousel-item{
+    width: 100% !important;
+    height: 500px !important;
+    background-color: #f1faee;
+
+}
+.carousel-item-text{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #1d3557;
+    font-family: iransans-bold;
+    font-size: 19px;
+    font-weight: bold;
+}
+.carousel-item-text p{
+    width: 70%;
+    margin: 0 auto;
+}
+.carousel-item-text p i{
+   padding: 0 10px;
+}
+.swiper-section{
+    margin: 100px 0;
+    height: 300px;
+
+}
+.mySwiper{
+    height: 400px;
+
+}
+.swiper-img{
+    width: 100%;
+    height: 100%;
+}
+.swiper-pagination{
+    position: absolute !important;
+    bottom: 0;
+
+
+
+}

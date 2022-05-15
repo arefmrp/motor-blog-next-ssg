@@ -1,0 +1,11 @@
+body{
+    direction: rtl;
+}
+.container-main{
+    max-width: 100%;
+    width: 90%;
+    margin: 0 auto;
+}
+.parent-component{
+    margin: 20px 0;
+}

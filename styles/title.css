@@ -1,0 +1,19 @@
+.title-component{
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.title-component span:nth-child(1){
+    font-family: iransans-medium;
+    font-weight: bold;
+    font-size: 35px;
+    color: #1d3557;
+}
+.title-component span:nth-child(2){
+    font-family: iransans;
+    font-weight: lighter;
+    font-size: 18px;
+    color: #e63946;
+}

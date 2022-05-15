@@ -1,0 +1,52 @@
+.posts-section-title{
+    padding: 20px 0;
+    color: #1d3557;
+    font-family: iransans-bold;
+    font-weight: bold;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.posts-section-item{
+    width: 100% !important;
+    height: auto;
+    margin: 50px 0;
+   transition: 300ms ease all;
+     display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    text-decoration: none;
+}
+.posts-section-item span:hover{
+    transition: 300ms ease all;
+    color: #457b9d;
+ }
+.posts-section-item img{
+    width: 100%;
+    height: 250px;
+}
+.posts-section-item .post-item-title{
+    color: #1d3557;
+    padding: 10px 0;
+    text-decoration: none;
+    font-size: 26px;
+    font-family: iransans-bold;
+
+}
+.posts-section-item .post-item-date{
+    color: #457b9d;
+    padding: 5px 0;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: iransans-ultralight;
+
+}
+.posts-section-item .post-item-interview{
+    color: #1d3557;
+    padding: 10px 0;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: iransans-bold;
+}

@@ -1,0 +1,16 @@
+@import "fonts.css";
+@import "main.css";
+@import "header.css";
+@import "home.css";
+@import "title.css";
+@import "about.css";
+@import "swiper-bundle.css";
+@import "post.css";
+@import "gallery.css";
+@import "contact.css";
+@import "postDesc.css";
+@import "footer.css";
+
+body{
+    background-color: #ffffff;
+}

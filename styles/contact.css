@@ -1,0 +1,53 @@
+.contact-section-title{
+    padding:20px 0 40px;
+    color: #457b9d;
+    font-family: iransans-bold;
+    font-size: 30px;
+}
+.contact-details{
+    height: auto;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.contact-image{
+    width: 100%;
+    height: auto;
+}
+.contact-detail-icons{
+    padding: 20px 0;
+}
+.contact-detail-icons ul{
+    list-style: none;
+    padding: 0;
+}
+.contact-detail-icons ul li {
+    padding: 5px ;
+    font-size: 19px;
+    color: #1d3557;
+}
+.contact-detail-icons ul li i {
+    padding-left: 5px;
+    font-size: 22px;
+}
+.form-control{
+    width: 80%;
+    background-color: #f1f1f1;
+    border: none;
+    border-radius: 0;
+}
+.form-control::placeholder{
+    font-family: iransans-light;
+}
+form label{
+    color: #1d3557;
+    font-family: iransans-light;
+    font-size: 18px;
+
+}
+.contact-btn-cs{
+   padding: 8px 30px;
+    background-color: #1d3557;
+    color: #a8dadc;
+    font-family: iransans-bold;
+}
